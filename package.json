@@ -10,6 +10,6 @@
   "author": "Dylan McDiarmid <dylan@roostery.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "uuid": "^2.0.2""
+    "uuid": "^2.0.2"
   }
 }
